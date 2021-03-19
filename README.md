@@ -34,7 +34,7 @@ I'm an Informatics Engineer with a deep passion for Web and Mobile Applications 
 
 <img src="https://image.flaticon.com/icons/png/512/40/40031.png" width="15" height="15">&nbsp; **Tools:**
 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40" height="40" title="Git"> &nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40" height="40" title="Git"> &nbsp;&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width="40" height="40" title="Bash">
 
 
