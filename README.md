@@ -9,16 +9,16 @@ I'm an Informatics Engineer with a deep passion for Web and Mobile Applications 
 <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width="15" height="15">&nbsp; **Programming Languages:**
 
    <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" width="40" height="40" title="Java"> &nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" title="JavaScript"> &nbsp;&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="40" title="C"> &nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" title="JavaScript"> &nbsp;&nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="40" title="C"> &nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="40" height="40" title="Python">
    
  <br />
  
 <img src="https://utils.antoniocampos.net/img/logo.png" width="15" height="15">&nbsp; **Databases:**
 
-   <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" width="77" height="40" title="MySQL"> &nbsp;&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" width="149" height="40" title="MongoDB"> &nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" width="77" height="40" title="MySQL"> &nbsp;&nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" width="149" height="40" title="MongoDB"> &nbsp;&nbsp;&nbsp;
    <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="71" height="40" title="Oracle">
 
 <br />
