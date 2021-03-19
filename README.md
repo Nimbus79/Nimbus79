@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me
+
+I'm an Informatics Engineer with a deep passion for Web and Mobile Applications Development. During my journey in University, I learned how to tackle a project with perseverence and determination, to look for more than one solution to any problem and the meaning of teamwork. I'm an organised, passionate, determined and hard-worker person, who's always looking to tackle new challenges and learn new things.
+
+<hr>
+
 
 <!--
 **Nimbus79/Nimbus79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
