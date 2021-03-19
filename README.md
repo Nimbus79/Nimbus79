@@ -4,6 +4,10 @@ I'm an Informatics Engineer with a deep passion for Web and Mobile Applications 
 
 <hr>
 
+### Skills
+
+* Programming Languages: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+
 
 <!--
 **Nimbus79/Nimbus79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
