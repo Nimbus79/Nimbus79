@@ -1,10 +1,10 @@
-### About me
+## About me
 
 I'm an Informatics Engineer with a deep passion for Web and Mobile Applications Development. During my journey in University, I learned how to tackle a project with perseverence and determination, to look for more than one solution to any problem and the meaning of teamwork. I'm an organised, passionate, determined and hard-worker person, who's always looking to tackle new challenges and learn new things.
 
 <hr>
 
-### Skills
+## Skills
 
 <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width="15" height="15">&nbsp; **Programming Languages:**
 
@@ -13,11 +13,15 @@ I'm an Informatics Engineer with a deep passion for Web and Mobile Applications 
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="40" title="C"> &nbsp;
    <img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="40" height="40" title="Python">
    
+ <br />
+ 
 <img src="https://utils.antoniocampos.net/img/logo.png" width="15" height="15">&nbsp; **Databases:**
 
    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" width="77" height="40" title="MySQL"> &nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" width="149" height="40" title="MongoDB"> &nbsp;
    <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="71" height="40" title="Oracle">
+
+<br />
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHia5YiXQJmz0ikKGigWvle-effRlbgDgiTTqvrHioJmYKFCIgNMhJruT1U_wzGpG9m5I&usqp=CAU" width="17" height="15">&nbsp; **Frameworks:**
 
@@ -25,6 +29,8 @@ I'm an Informatics Engineer with a deep passion for Web and Mobile Applications 
    <img src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2020/04/node-js-736399_960_720-2.png?fit=960%2C480&ssl=1" width="80" height="40" title="Express"> &nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="57" height="40" title="React Native"> &nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="144" height="40" title="Hibernate">
+
+<br />
 
 <img src="https://image.flaticon.com/icons/png/512/40/40031.png" width="15" height="15">&nbsp; **Tools:**
 
