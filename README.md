@@ -1,6 +1,6 @@
 ## About me
 
-I'm an Informatics Engineer with a deep passion for Web and Mobile Applications Development. During my academic journey, I learned how to tackle a project with perseverance and determination, to look for more than one solution to any problem and the meaning of teamwork. I'm an organized, passionate, determined and hard-working person, who's always looking to tackle new challenges and learn new things.
+I'm a Software Engineer with a deep passion for Web and Mobile Applications Development. During my academic journey, I learned how to tackle a project with perseverance and determination, to look for more than one solution to any problem and the meaning of teamwork. I'm an organized, passionate, determined and hard-working person, who's always looking to tackle new challenges and learn new things.
 
 <hr>
 
@@ -8,7 +8,7 @@ I'm an Informatics Engineer with a deep passion for Web and Mobile Applications 
 
 <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width="15" height="15">&nbsp; **Programming Languages:**
 
-   <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" width="40" height="40" title="Java"> &nbsp;
+   <img src="https://logowiki.net/uploads/logo/j/java-14.svg" width="30" height="40" title="Java"> &nbsp;&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" title="JavaScript"> &nbsp;&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="40" title="C"> &nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="40" height="40" title="Python">
