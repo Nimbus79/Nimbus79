@@ -35,7 +35,9 @@ I'm a Software Engineer with a deep passion for Web and Mobile Applications Deve
 <img src="https://image.flaticon.com/icons/png/512/40/40031.png" width="15" height="15">&nbsp; **Tools:**
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40" height="40" title="Git"> &nbsp;&nbsp;&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width="40" height="40" title="Bash">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width="40" height="40" title="Bash"> &nbsp;&nbsp;&nbsp;
+   <img src="https://jirasupport.files.wordpress.com/2018/09/200x0w.jpg" width="40" height="40" title="Confluence">
+   <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Jira-Emblema.jpg" width="70" height="40" title="Jira">
 
 
 
