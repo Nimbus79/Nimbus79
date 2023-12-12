@@ -6,7 +6,7 @@ I'm a Software Engineer with a deep passion for Web and Mobile Applications Deve
 
 ## Skills
 
-<img src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/code-512.png" width="15" height="15">&nbsp; **Programming Languages:**
+<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width="15" height="15">&nbsp; **Programming Languages:**
 
    <img src="https://logowiki.net/uploads/logo/j/java-14.svg" width="30" height="40" title="Java"> &nbsp;&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" title="JavaScript"> &nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@ I'm a Software Engineer with a deep passion for Web and Mobile Applications Deve
    <img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="40" height="40" title="Python"> &nbsp;
    <img src="https://salesforcecodex.com/wp-content/uploads/2019/08/SalesforceCodex_Apex-e1566962527231.png" width="60" height="45" title="Apex">
    
- <br />
+<br />
  
 <img src="https://utils.antoniocampos.net/img/logo.png" width="15" height="15">&nbsp; **Databases:**
 
